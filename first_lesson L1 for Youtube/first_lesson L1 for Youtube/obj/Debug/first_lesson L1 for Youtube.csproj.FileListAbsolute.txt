@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\bin\Debug\first_lesson L1 for Youtube.exe.config
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\bin\Debug\first_lesson L1 for Youtube.exe
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\bin\Debug\first_lesson L1 for Youtube.pdb
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\obj\Debug\first_lesson L1 for Youtube.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\obj\Debug\first_lesson L1 for Youtube.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\obj\Debug\first_lesson L1 for Youtube.exe
+C:\Users\User\Desktop\Entity Framework\first_lesson L1 for Youtube\first_lesson L1 for Youtube\obj\Debug\first_lesson L1 for Youtube.pdb
